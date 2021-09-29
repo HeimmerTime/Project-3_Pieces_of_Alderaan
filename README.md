@@ -34,9 +34,9 @@ Then came Cryptokitties that used the Ethereum ERC721 contract standard for gene
 
 Over the next three years the NFT market slowly grew until 2021 when NFTs exploded onto the public's consciousness. Soon such items as "digital baseball cards" and other digital art began to be traded at high volume and at times, high prices.
 
-[Opensea](https://opensea.io/) is the largest platform to market NFTs. With a market valuation of over $1.5 billion as a start up-it is cosidered a unicorn. Among OpenSea's top investors is [Mark Cuban](https://en.wikipedia.org/wiki/Mark_Cuban) a Dallas based entrepenuer know as one of the "sharks" on the Shark Tank TV program.
+[Opensea](https://opensea.io/) is the largest platform to market NFTs. With a market valuation of over $1.5 billion as a start up-it is considered a unicorn. Among OpenSea's top investors is [Mark Cuban](https://en.wikipedia.org/wiki/Mark_Cuban) a Dallas based entrepenuer know as one of the "sharks" on the Shark Tank TV program.
 
-While there are ways to create or "mint" an NFT on OpenSea or other similar platforms we wanted to create our own NFT from code. 
+While there are ways to create or "mint" an NFT on OpenSea or other similar platforms, we wanted to create our own NFT from code. 
 
 Since marketability for NFTs is key, we decided to target a popular sub culture with a history of enjoying collectibles. 
 
@@ -82,7 +82,7 @@ Once this was debugged, along with a few other corrections we were able to mint 
 
 ## Conclusion
 
-We started to write randomization code into our smart contract and python scripts to genrerate new and unique planetoids. But the time contraint of this project prvented us from finishing that portion. That portion of the project would require using Chainlink for the randomization.   
+We started to write randomization code into our smart contract and python scripts to genrerate new and unique planetoids. But the time contraint of this project prevented us from finishing that portion. That portion of the project would require using Chainlink for the randomization.   
 
 
 
