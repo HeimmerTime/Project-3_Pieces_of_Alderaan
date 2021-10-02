@@ -82,7 +82,23 @@ Once this was debugged, along with a few other corrections we were able to mint 
 
 ## Conclusion
 
-We started to write randomization code into our smart contract and python scripts to genrerate new and unique planetoids. But the time contraint of this project prevented us from finishing that portion. That portion of the project would require using Chainlink for the randomization.   
+We started to write randomization code into our smart contract and python scripts to genrerate new and unique planetoids. But the time contraint of this project prevented us from finishing that portion. That portion of the project would require using Chainlink for the randomization.  
+
+## Frontend Design
+
+We designed an html frontend that would be used to market the planetoids. It would look like the these pictures.
+
+![Webfront1](Dan/PNG/WebFront1.PNG "WebFront 1")
+
+![Webfront2](Dan/PNG/WebFront2.PNG "WebFront 2")
+
+![Webfront3](Dan/PNG/WebFront3.PNG "WebFront 3")
+
+![Webfront3](Dan/PNG/WebFront4.PNG  "WebFront 4")
+
+
+
+
 
 
 
