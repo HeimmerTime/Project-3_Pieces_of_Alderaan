@@ -74,7 +74,7 @@ Our code was still not running properly, until we realized that to run the _setT
 
 ## Final Steps
 
-Once this was debugged, along with a few other corrections we were able to mint to the OpenSea testnet. But to our disappointment the images were not appearing. Finally, we realized we needed to point to the correct IPFS url to capture the image. Our Piece of Alderaan collectible, was finally minted onto the testnet for all to see. 
+Once this was debugged, along with a few other corrections we were able to mint to the OpenSea testnet. But to our disappointment the images were not appearing. Finally, we realized we needed to point to the correct IPFS url to capture the image. Our Piece of Alderaan collectible, was finally minted onto the testnet for all to see, CLICK [HERE](https://testnets.opensea.io/MosEilseyPlanetoids). 
 
 [Our Panetoid on the testnet](https://files.slack.com/files-pri/T01S3KQNZDK-F02GJV38TDE/image.png)
 
@@ -86,7 +86,7 @@ We started to write randomization code into our smart contract and python script
 
 ## Frontend Design
 
-We designed an html frontend that would be used to market the planetoids. It would look like the these pictures.
+We designed an html frontend that would be used to market the planetoids. It would look like the these pictures. CLICK [HERE](http://4e626400.sitemodify.com/)
 
 ![Webfront1](Dan/PNG/WebFront1.PNG "WebFront 1")
 
