@@ -86,7 +86,7 @@ We started to write randomization code into our smart contract and python script
 
 ## Frontend Design
 
-We designed an html frontend that would be used to market the planetoids. It would look like the these pictures. CLICK [HERE](http://4e626400.sitemodify.com/)
+We designed an html frontend that would be used to market the planetoids, CLICK [HERE](http://4e626400.sitemodify.com/)
 
 ![Webfront1](Dan/PNG/WebFront1.PNG "WebFront 1")
 
